@@ -1,0 +1,6 @@
+Test gaze.js
+
+Introduction
+
+A globbing fs.watch wrapper built from the best parts of other fine watch libs.
+Compatible with Node.js 4.x/0.12/0.10, Windows, OSX and Linux.

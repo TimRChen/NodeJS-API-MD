@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-api-md",
+  "version": "1.0.0",
+  "description": "一个通过代码运行NodeJS的API以达到学习文档目的的库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimRChen/NodeJS-API-MD.git"
+  },
+  "author": "timrchen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimRChen/NodeJS-API-MD/issues"
+  },
+  "homepage": "https://github.com/TimRChen/NodeJS-API-MD#readme",
+  "dependencies": {
+    "gaze": "^1.1.2"
+  }
+}
